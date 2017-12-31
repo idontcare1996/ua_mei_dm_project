@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="dl4j-examples-0.9.1-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/dl4j-examples-0.9.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/datavec-examples-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/dl4j-spark-0.9.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/rl4j-examples-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/original-rl4j-examples-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/dl4j-examples-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/dl4j-spark-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/datavec-examples-0.9.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/nd4j-examples-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/dl4j-examples-0.9.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/dl4j-spark-0.9.1-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/rl4j-examples-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/datavec-examples-0.9.1-bin.jar!/" />
+    </SOURCES>
+  </library>
+</component>
